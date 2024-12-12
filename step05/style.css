@@ -1,0 +1,16 @@
+a {
+    text-decoration: none;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li {
+    margin: 16px;
+    list-style: none;
+}
+
+.menu li:last-child a {
+    color: #77adc7;
+}
